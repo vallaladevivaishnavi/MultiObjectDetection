@@ -1,0 +1,11 @@
+Datasets/
+runs/
+
+*.pt
+*.pth
+
+__pycache__/
+*.pyc
+
+.idea/
+.vscode/

@@ -1,0 +1,12 @@
+path: E:/Models/MultiObjectDetection/Datasets/ObjectDetectiondataset
+
+train: VisDrone2019-DET-train/images
+val: VisDrone2019-DET-val/images
+
+names:
+  0: pedestrian
+  1: person
+  2: car
+  3: van
+  4: truck
+  5: bus
